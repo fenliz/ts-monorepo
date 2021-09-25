@@ -1,0 +1,12 @@
+{
+	"name": "@ts-monorepo/domain",
+	"version": "1.0.0",
+	"description": "An example project where domain logic lives",
+	"license": "MIT",
+	"scripts": {
+		"build": "tsc -b ."
+	},
+	"devDependencies": {
+		"typescript": "^4.4.3"
+	}
+}
