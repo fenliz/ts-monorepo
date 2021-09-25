@@ -1,8 +1,8 @@
-import { Address } from "./address";
+import { Address } from './address';
 
 export type Customer = {
-	id: string;
-	firstName: string;
-	lastName: string;
-	address: Address;
-}
+    id: string;
+    firstName: string;
+    lastName: string;
+    address: Address;
+};
