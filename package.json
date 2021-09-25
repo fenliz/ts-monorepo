@@ -1,0 +1,8 @@
+{
+	"name": "ts-monorepo",
+	"version": "1.0.0",
+	"description": "An example of how a monorepo with modern tools would look like",
+	"repository": "https://github.com/fenliz/ts-monorepo",
+	"author": "Forsberg Hedberg Charlie <cfh91@hotmail.com>",
+	"license": "MIT"
+}
