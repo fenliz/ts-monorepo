@@ -14,5 +14,8 @@
 		"@commitlint/config-lerna-scopes": "^13.1.0",
 		"husky": "^7.0.0",
 		"lerna": "^4.0.0"
-	}
+	},
+	"workspaces": [
+		"packages/*"
+	]
 }
