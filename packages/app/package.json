@@ -4,7 +4,8 @@
     "scripts": {
         "dev": "vite",
         "build": "vue-tsc --noEmit && vite build",
-        "serve": "vite preview"
+        "serve": "vite preview",
+        "lint": "eslint src --ext js,ts,jsx,tsx,vue"
     },
     "dependencies": {
         "@ts-monorepo/domain": "^1.0.0",

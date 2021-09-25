@@ -7,7 +7,8 @@
     "types": "dist/index.d.ts",
     "scripts": {
         "build": "tsc -b .",
-        "clean": "rimraf dist *.tsbuildinfo"
+        "clean": "rimraf dist *.tsbuildinfo",
+        "lint": "eslint src --ext js,ts,jsx,tsx"
     },
     "devDependencies": {
         "typescript": "^4.4.3"

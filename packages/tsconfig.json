@@ -1,11 +1,4 @@
 {
-	"files": [],
-	"references": [
-		{
-			"path": "app"
-		},
-		{
-			"path": "domain"
-		}
-	]
+    "files": [],
+    "references": [{ "path": "app" }, { "path": "domain" }]
 }
